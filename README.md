@@ -22,6 +22,13 @@ This landing page project was created as part of a college assignment to design 
 - Interactive elements and animations
 - Clickable button to reveal hidden content
 
+# Preview
+
+Here's a live preview of my mini real-time webpage:
+
+<iframe src="https://riya922003.github.io/CTFSite/" width="600" height="400" frameborder="0" scrolling="no"></iframe>
+
+
 ## 🌐 How to View
 
 To view the landing page, simply click on the following link:
